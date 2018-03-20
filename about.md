@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+# Welcome!
 Some information about you!
 
 ### More Information
